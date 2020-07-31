@@ -31,7 +31,7 @@ __Tested and working__
 - [x] TouchPad with gestures
 - [x] WiFi
 - [x] Bluetooth
-- [x] HDMI
+- [x] HDMI + HDMI Audio
 - [x] Airdrop + Handoff
 - [x] Audio + Headphone + Internal Mic
 - [x] Keyboard with backlight (Some function keys not work)
