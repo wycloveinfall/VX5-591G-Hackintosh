@@ -8,7 +8,7 @@ __My Specs__
 | Specs | Details |
 |------------|-------------------------------|
 | Model | Acer Aspire VX15 (VX5-591G) |
-| OS | macOS Catalina 10.15.5 |
+| OS | macOS Catalina 10.15.6 |
 | CPU | Intel(R) Core(TM) i5 7300HQ |
 | RAM | 16 GB DDR4 2400MHz |
 | iGPU | Intel HD Graphics 630 |
@@ -36,10 +36,6 @@ __Tested and working__
 - [x] Audio + Headphone + Internal Mic
 - [x] Keyboard with backlight (Some function keys not work)
 
-__Not tested__
-
-- [ ] USB C (I don't have a device to test)
-
 __Not working__
 
 - [ ] NVIDIA GeForce GTX 1050M
@@ -59,13 +55,13 @@ __BIOS Settings (Version 1.08)__
 
 __Clover config__
 
-Use rehabman's config: `config_HD615_620_630_640_650.plist`   
-I used SSDT files and patches from: https://github.com/dongcodebmt/VX5-591G-OpenCore     
-Audio layout ID 29     
+- Use rehabman's config: `config_HD615_620_630_640_650.plist`   
+- I used SSDT files and patches from: https://github.com/dongcodebmt/VX5-591G-OpenCore     
+- Audio layout ID 29     
 
 __Fix Timezone (Dual Boot)__
 
-See: https://www.tonymacx86.com/threads/fix-incorrect-time-in-windows-osx-dual-boot.133719/
+- See: https://www.tonymacx86.com/threads/fix-incorrect-time-in-windows-osx-dual-boot.133719/
 
 ## Credits
 
