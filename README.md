@@ -1,6 +1,7 @@
 # Acer Aspire VX15 Hackintosh
 
-If you want to use OpenCore see here:  
+I have stopped using Clover so this repo will not be updated anymore  
+Use OpenCore here:  
 https://github.com/dongcodebmt/VX5-591G-OpenCore
  
 __My Specs__
